@@ -24,7 +24,7 @@ This is a Laravel-based web application designed to provide support for doctors.
   - [Step 15: Apache Configuration](#step-15-apache-configuration)
   - [Step 16: Test](#step-16-test)
   - [Step 17: Admin Setup](#step-17-admin-setup)
-- [Additional Steps](#additional-steps)
+
 
 ## Prerequisites
 
