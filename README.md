@@ -114,10 +114,3 @@ Access the web app using the EC2 instance's public IP to verify the deployment.
 Insert an admin user into the database for initial testing.
 
 
-mysql -h [RDS Endpoint] -P 3306 -u [username] -p
-# ... (other commands)
-```
-
----
-
-Feel free to copy this template into your GitHub repository's `README.md` file and make any necessary adjustments.
